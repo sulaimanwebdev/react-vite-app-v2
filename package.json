@@ -1,0 +1,47 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@coreui/react-pro": "^4.4.0",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.5.1",
+    "@tailwindcss/line-clamp": "^0.4.0",
+    "@tailwindcss/typography": "^0.5.2",
+    "chart.js": "^3.9.1",
+    "chartjs-gauge": "^0.3.0",
+    "chartjs-plugin-datalabels": "^2.0.0",
+    "css.gg": "^2.0.0",
+    "emoji-mart": "^5.1.0",
+    "emoji-picker-react": "^3.5.1",
+    "gauge-chart": "^0.5.3",
+    "gauge-chart-js": "^2.0.1",
+    "react": "^17.0.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-d3-speedometer": "^1.0.2",
+    "react-dom": "^17.0.0",
+    "react-flags-select": "^2.2.3",
+    "react-google-charts": "^4.0.0",
+    "react-icons": "^4.3.1",
+    "react-input-emoji": "^4.0.9",
+    "react-languages-select": "^1.0.20",
+    "react-router-dom": "^6.0.2",
+    "react-table": "^7.7.0",
+    "rsuite": "^5.16.3",
+    "sass": "^1.44.0",
+    "swiper": "^8.0.7",
+    "tailwind": "^4.0.0",
+    "tailwindcss-dropdown": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.6.4"
+  }
+}
